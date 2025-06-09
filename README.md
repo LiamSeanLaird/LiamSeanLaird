@@ -4,6 +4,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=LiamSeanLaird&theme=dark)](https://git.io/streak-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=-C,-B)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **LiamSeanLaird/LiamSeanLaird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
