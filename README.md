@@ -1,6 +1,6 @@
 ## Howzit 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=-C,-B)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=LiamSeanLaird&rank=-C,-B)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=LiamSeanLaird&theme=dark)](https://git.io/streak-stats)
 
