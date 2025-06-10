@@ -4,12 +4,12 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=LiamSeanLaird&theme=dark)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiamSeanLaird&layout=compact&theme=radical)
-
 <!--
 **LiamSeanLaird/LiamSeanLaird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiamSeanLaird&layout=compact&theme=radical)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
