@@ -1,7 +1,5 @@
 ## Howzit 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=LiamSeanLaird&rank=-C,-B&title=-Stars,-Followers,-Issues,-PullRequest,-Reviews)](https://github.com/ryo-ma/github-profile-trophy)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=LiamSeanLaird&theme=dark)](https://git.io/streak-stats)
 
 <!--
@@ -10,6 +8,8 @@
 Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiamSeanLaird&layout=compact&theme=radical)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=LiamSeanLaird&rank=-C,-B&title=-Stars,-Followers,-Issues,-PullRequest,-Reviews)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
